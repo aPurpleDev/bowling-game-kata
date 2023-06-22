@@ -1,2 +1,6 @@
 # bowling-game-kata
-A typescript kata to implement bowling rules
+
+Get started:
+
+$ npm i
+$ npm run test
